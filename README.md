@@ -126,9 +126,8 @@ Herbs considered:
 ----------------
 - **Zingiber officinale (Ginger)**
 - **Mentha x piperita (Peppermint)**
-- **Rosemary**
-- Juniper berry
-- Turmeric
+- **Rosmarinus officinalis (Rosemary)**
+- **Curcuma longa (Turmeric)**
 - Arnica
 - Evening primrose pods
 - Comfrey
@@ -159,3 +158,4 @@ Herbs I'd like to consider, but I'd also like some guidance about
 - Birch
 - Geranium
 - Lemongrass
+- Juniper berry
