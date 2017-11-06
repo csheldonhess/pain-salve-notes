@@ -22,12 +22,18 @@ Joint pain
 **Peppermint** - "analgesic as a counter-irritant for arthritis" -Class notes
 
 **Willow** -Class notes
+Good with osteoarthritis; less good with rheumatoid arthritis. -Nat'l Geographic, Willow
 
 **Cinnamon** -Class notes
 
 **Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. (Better in osteoarthritis and injury than in rheumatoid or psoriatic arthritis.) Encourages production of synovial fluid. -Class notes
 
 "For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey
+
+**Eucalyptus** "Rubbing the oil into the skin can relieve arthritis pain and ease tension headaches." "In addition, eucalyptus oil fights inflammation, making it a useful component in skin creams and other topical products for skin health and arthritis." -Nat'l Geographic, Eucalyptus
+
+**Arnica** gel was as effective as 5% ibuprofen gel for patients with osteoarthritis and would be a good addition to a salve for osteoarthritis and joint injuries. (Discontinue use if a rash appears.) -Nat'l Geographic, Arnica
+
 
 
 Muscle pain
@@ -53,7 +59,9 @@ Muscle pain
 
 "**Skullcap** can be used as an external massage oil to relax muscle tension and pain." -HerbMentor, Skullcap
 
-"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey
+"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey (Nat'l Geographic agrees: comfrey for joint pain)
+
+**Arnica**, maybe. Good after an injury, anyway. -Nat'l Geographic, Arnica
 
 
 Bruises
@@ -69,6 +77,8 @@ Bruises
 **Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. -Class notes
 
 "For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey
+
+**Arnica** -Nat'l Geographic, Arnica
 
 
 
@@ -108,6 +118,10 @@ Headaches
 (Maybe? On temples?) "Capsaicin, a major constituent of **cayenne peppers,** blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne
 
 **Rosemary** - class notes
+
+"**Lavender** essential oil can be rubbed into the temples along with diluted peppermint essential oil for headaches."
+
+**Eucalyptus** "Rubbing the oil into the skin can relieve arthritis pain and ease tension headaches." -Nat'l Geographic, Eucalyptus
 
 
 Burns
@@ -201,12 +215,24 @@ Sources:
 	- Skullcap
 - Susan Williams - Forager’s Path School of Botanical Studies - Monographs
 	- Comfrey
+- Chestnut School of Herbal Medicine
+	- Lavender's Medicinal and Aromatherapy Uses and Lavender Truffles
+- Johnson, Rebecca L. & Foster, Steven & Low Dog, Tieraona & Kiefer, David. National Geographic Guide to Medicinal Herbs.
+	- Eucalyptus
+	- Arnica
+	- Comfrey
+	- Willow Bark
+	- Feverfew
+	- Black cohosh
+- Frostburg State University
+	- Black Cohosh – Actaea racemosa L.
 - Shirooye, Pantea & Dabaghian, Fataneh & Hamzeloo-Moghadam, M & Afrakhteh, M & Bioos, Soodabeh & Mokaberinejad, Roshanak. (2017). A clinical comparative study of oral and topical ginger on severity and duration of primary dysmenorrhea. Research Journal of Pharmacognosy (RJP). 4. 23-32. 
 
 
 
-Herbs considered:
-----------------
+
+Herbs I considered for inclusion:
+--------------------------------
 - **Zingiber officinale (Ginger)**
 - **Mentha x piperita (Peppermint)**
 - **Rosmarinus officinalis (Rosemary)**
@@ -222,35 +248,36 @@ Herbs considered:
 - **Capsicum frutescens (Cayenne pepper)**
 - **Matricaria chamomilla (German chamomile)**
 - **Viburnum opulus (Cramp bark)**
-- Cucumber oil
-- Tea tree
-- Feverfew
-- Lavender
-- Clove
-- Gaultheria procumbens (Wintergreen) Leaf Oil 
-- Cinnamomum camphora (Camphor) Bark Oil
-- Eucalyptus globulus (Eucalyptus) Leaf Oil
-- Cananga odorata (Ylang Ylang) Oil
-- Chamomilla recutita (Blue Chamomile)
-- Tanacetum annuum (Blue Tansy) Flower Oil
-- Helichrysum italicum (Helichrysum) Flower Oil
-- Gardenia florida Fruit Extract
-- Osmanthus fragrans (Osmanthus) Flower Extract
-- Chlorella vulgaris Extract
+- **Lavandula angustifolia (Lavender)**
+- **Eucalyptus globulus (Eucalyptus)**
+- **Tanacetum parthenium (Feverfew)** (no indication that it's good topically)
+- **Actaea racemosa (Black cohosh)** (good internally for pain, but topically?)
+- **Filipendula ulmaria (Meadowsweet)** (good internally for pain, but topically?)
 
 
 
 
-Herbs I'd like to consider, but haven't researched yet:
--------------------------------------------------------
+Herbs I plan to consider*, but still haven't researched enough:
+-------------------------------------------------------------
 - Birch
 - Geranium
 - Lemongrass
 - Juniper berry
 - Lobelia
 - Poplar
-- Black cohosh
 - Bay laurel
-- Eucalyptus
 - Evening primrose pods
-- Meadowsweet (good internally for pain, but topically?)
+- Cucumber oil
+- Tea tree
+- Clove
+- Gaultheria procumbens (Wintergreen) 
+- Cinnamomum camphora (Camphor) Bark
+- Cananga odorata (Ylang Ylang) 
+- Chamomilla recutita (Blue Chamomile)
+- Tanacetum annuum (Blue Tansy) 
+- Helichrysum italicum (Helichrysum) 
+- Gardenia florida Fruit 
+- Osmanthus fragrans (Osmanthus) Flower 
+- Chlorella vulgaris 
+
+* Because someone, somewhere, listed them as useful for one of the uses I've listed.
