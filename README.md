@@ -16,6 +16,8 @@ Joint pain
 
 "(Rosemary) has long been used for inflammatory pain such as arthritis. Herbalists recommend both taking it internally and using it externally over the affected areas." -HerbMentor, Rosemary
 
+"**Turmeric** is a strong anti-inflammatory herb. It can rebuild joints and even decrease pain. It can be used in acute injuries as well to improve circulation to the area, reduce any excessive inflammation and reduce pain." "Besides reducing inflammation it also depletes nerve endings of substance P, which communicates the pain signal. Besides being taken internally it also has been used externally for sore joints and sprains. Be warned though, it will temporarily stain your skin yellow." -HerbMentor, Turmeric
+
 
 Muscle pain
 -----------
@@ -32,6 +34,8 @@ Muscle pain
 
 "For relieving muscle tension and pain chamomile ... can also be used externally on the affected area as an infused oil, diluted essential oil, or liniment." -HerbMentor, Chamomile
 
+"I often use **cramp bark** as a fomentation over cramped muscles when I’ve thrown out my back AND I rest and stay mostly immobilized. The cramp bark fomentation significantly decreases the discomfort, but I am also not going to push myself too much and increase the risk of further injury." (Muscles seizing up.) "It can be used externally, but as an infused oil or as a fomentation." -HerbMentor, Cramp Bark
+
 
 
 Bruises
@@ -42,6 +46,8 @@ Bruises
 
 (**Maybe cayenne** - "Capsaicin, a major constituent of cayenne peppers, blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne)
 
+'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
+
 
 
 Neuropathy (nerve pain)
@@ -51,6 +57,8 @@ Neuropathy (nerve pain)
 "Capsaicin, a major constituent of **cayenne peppers,** blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne
 
 "Another study looked at topical **(German) chamomile** for carpal tunnel syndrome pain. In this pilot study the researchers concluded that “Chamomile oil improved symptomatic and functional status of patients with severe carpal tunnel syndrome.”5" -HerbMentor, Cayenne
+
+"St. John’s wort can be a powerful remedy for nerve pain. I’ve seen it relieve the sharp pains of sciatica and thoracic outlet syndrome. Many eclectic herbalists recommended St. John’s wort specifically for spinal injuries and excruciating pain." -HerbMentor, St. Johns Wort
 
 
 
@@ -64,6 +72,8 @@ Menstrual pain
 "Capsaicin, a major constituent of **cayenne peppers,** blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne
 
 "For Muscle Tension, Cramps and Pain - **(German) Chamomile** is also relaxing to the musculature. I reach for it whenever there is muscle tension related to stress or simply muscle tension leading to pain. I’ve seen it relieve severe menstrual cramps, as well as headaches that are accompanied by excess tension in the upper back and neck. Since pain can often be accompanied by emotional distress, chamomile brings welcome relief on many levels." -HerbMentor, Chamomile
+
+(Maybe? Internal, or external?) "Turmeric is used to treat a variety of symptoms associated with menstruation. As a blood mover it moves stagnant blood and reduces clots. It also works as an antispasmodic on smooth muscle tissue, helping to relieve pain associated with cramping." -HerbMentor, Turmeric
 
 
 
@@ -90,6 +100,11 @@ Messed up tendons and ligaments (plantar fasciitis, carpal tunnel)
 ------------------------------------------------------------------
 "Another study looked at topical **(German) chamomile** for carpal tunnel syndrome pain. In this pilot study the researchers concluded that “Chamomile oil improved symptomatic and functional status of patients with severe carpal tunnel syndrome.”5" -HerbMentor, Chamomile
 
+"Besides reducing inflammation [**Turmeric**] also depletes nerve endings of substance P, which communicates the pain signal. Besides being taken internally it also has been used externally for sore joints and sprains. Be warned though, it will temporarily stain your skin yellow." "It can stabilize connective tissue and promote the healing of tissues while lessening scars and adhesions." -HerbMentor, Turmeric
+
+'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
+
+
 
 
 Bug bites
@@ -100,6 +115,7 @@ Bug bites
 
 
 
+
 Cuts and scrapes
 ----------------
 "**Cayenne**’s anti-microbial properties can also prevent infections." -HerbMentor, Cayenne 
@@ -107,6 +123,9 @@ Also styptic. -Wild Cherries Herbal Studies Program
 
 "One interesting study compared the topical use of **(German) chamomile** compresses with hydrocortisone cream for relieving itching and discomfort associated with skin lesions in people who have stomas (a surgically created opening in the abdomen that allows stool or urine to exit the body). Participants were either given a 1 percent hydrocortisone cream or chamomile compresses twice a day. Those using the compresses had a significantly faster healing time as well as a considerable decrease in pain and itching compared with those using the steroid cream. The researchers also pointed out that using chamomile instead of the steroid cream prevents serious side effects associated with topical steroid use, such as thinning of the skin.9" -HerbMentor, Chamomile
 
+"**Turmeric** can also be used to heal from surgery. It can stabilize connective tissue and promote the healing of tissues while lessening scars and adhesions." "The powdered root can stop bleeding fast; simply apply it to the wound." -HerbMentor, Turmeric
+
+'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
 
 
 Sources:
@@ -119,6 +138,12 @@ Sources:
 	- Cayenne
 	- (German) Chamomile
 	- Rosemary
+	- Turmeric
+	- St. Johns Wort
+	- Cinnamon (not cited)
+	- Willow (not cited)
+	- Black Pepper (not cited)
+	- Cramp Bark
 
 
 
@@ -131,15 +156,15 @@ Herbs considered:
 - Arnica
 - Evening primrose pods
 - Comfrey
-- St. Johns Wort
+- **Hypericum perforatum (St. Johns Wort)**
 - Cucumber oil
 - Tea tree
 - Feverfew
 - Lavender
-- Cinnamon
-- Willow
+- (needs more) **Cinnamomum aromaticum, C. cassia, C. zeylanicum (Cinnamon)**
+- ** Salix spp. (Willow)**
 - Clove
-- Black pepper
+- **Piper nigrum (Black pepper)**
 - Gaultheria procumbens (Wintergreen) Leaf Oil 
 - Cinnamomum camphora (Camphor) Bark Oil
 - Eucalyptus globulus (Eucalyptus) Leaf Oil
@@ -152,6 +177,8 @@ Herbs considered:
 - Gardenia florida Fruit Extract
 - Osmanthus fragrans (Osmanthus) Flower Extract
 - Chlorella vulgaris Extract
+- **Viburnum opulus (Cramp bark)**
+
 
 Herbs I'd like to consider, but I'd also like some guidance about
 -----------------------------------------------------------------
