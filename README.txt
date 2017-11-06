@@ -90,7 +90,7 @@ Neuropathy (nerve pain)
 
 "Another study looked at topical **(German) chamomile** for carpal tunnel syndrome pain. In this pilot study the researchers concluded that “Chamomile oil improved symptomatic and functional status of patients with severe carpal tunnel syndrome.”5" -HerbMentor, Cayenne
 
-"St. John’s wort can be a powerful remedy for nerve pain. I’ve seen it relieve the sharp pains of sciatica and thoracic outlet syndrome. Many eclectic herbalists recommended St. John’s wort specifically for spinal injuries and excruciating pain." -HerbMentor, St. Johns Wort
+"**St. John’s wort** can be a powerful remedy for nerve pain. I’ve seen it relieve the sharp pains of sciatica and thoracic outlet syndrome. Many eclectic herbalists recommended St. John’s wort specifically for spinal injuries and excruciating pain." -HerbMentor, St. Johns Wort
 
 
 
@@ -147,7 +147,7 @@ Messed up tendons and ligaments (plantar fasciitis, carpal tunnel, sprains)
 
 "Besides reducing inflammation [**Turmeric**] also depletes nerve endings of substance P, which communicates the pain signal. Besides being taken internally it also has been used externally for sore joints and sprains. Be warned though, it will temporarily stain your skin yellow." "It can stabilize connective tissue and promote the healing of tissues while lessening scars and adhesions." -HerbMentor, Turmeric
 
-'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
+'In the 1898 King’s American Dispensatory, “**St. John’s wort** is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
 
 **Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. Good for carpal tunnel and bone spurs from tension (plantar fasciitis). -Class notes
 
@@ -186,7 +186,7 @@ Also styptic. -Wild Cherries Herbal Studies Program
 
 "**Turmeric** can also be used to heal from surgery. It can stabilize connective tissue and promote the healing of tissues while lessening scars and adhesions." "The powdered root can stop bleeding fast; simply apply it to the wound." -HerbMentor, Turmeric
 
-'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
+'In the 1898 King’s American Dispensatory, “**St. John’s wort** is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
 
 **Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. -Class notes
 
@@ -243,7 +243,7 @@ Herbs I considered for inclusion:
 - **Symphytum uplandica, S. officianale (Comfrey)**
 - **Hypericum perforatum (St. Johns Wort)**
 - **Cinnamomum aromaticum, C. cassia, C. zeylanicum (Cinnamon)**
-- ** Salix spp. (Willow)**
+- **Salix spp. (Willow)**
 - **Piper nigrum (Black pepper)**
 - **Capsicum frutescens (Cayenne pepper)**
 - **Matricaria chamomilla (German chamomile)**
@@ -257,7 +257,7 @@ Herbs I considered for inclusion:
 
 
 
-Herbs I plan to consider*, but still haven't researched enough:
+Herbs I plan to considerº, but still haven't researched enough:
 -------------------------------------------------------------
 - Birch
 - Geranium
@@ -280,4 +280,4 @@ Herbs I plan to consider*, but still haven't researched enough:
 - Osmanthus fragrans (Osmanthus) Flower 
 - Chlorella vulgaris 
 
-* Because someone, somewhere, listed them as useful for one of the uses I've listed.
+º Because someone, somewhere, listed them as useful for one of the uses I've listed.
