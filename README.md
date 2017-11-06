@@ -14,9 +14,20 @@ Joint pain
 
 "Capsaicin, a major constituent of **cayenne peppers**, blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne
 
-"(Rosemary) has long been used for inflammatory pain such as arthritis. Herbalists recommend both taking it internally and using it externally over the affected areas." -HerbMentor, Rosemary
+"(**Rosemary**) has long been used for inflammatory pain such as arthritis. Herbalists recommend both taking it internally and using it externally over the affected areas." -HerbMentor, Rosemary
+"Anti-inflammatory, topically and internally" "Essential oil (diluted) for arthritic pain and muscle spasms." -Class notes
 
 "**Turmeric** is a strong anti-inflammatory herb. It can rebuild joints and even decrease pain. It can be used in acute injuries as well to improve circulation to the area, reduce any excessive inflammation and reduce pain." "Besides reducing inflammation it also depletes nerve endings of substance P, which communicates the pain signal. Besides being taken internally it also has been used externally for sore joints and sprains. Be warned though, it will temporarily stain your skin yellow." -HerbMentor, Turmeric
+
+**Peppermint** - "analgesic as a counter-irritant for arthritis" -Class notes
+
+**Willow** -Class notes
+
+**Cinnamon** -Class notes
+
+**Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. (Better in osteoarthritis and injury than in rheumatoid or psoriatic arthritis.) Encourages production of synovial fluid. -Class notes
+
+"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey
 
 
 Muscle pain
@@ -36,6 +47,13 @@ Muscle pain
 
 "I often use **cramp bark** as a fomentation over cramped muscles when I’ve thrown out my back AND I rest and stay mostly immobilized. The cramp bark fomentation significantly decreases the discomfort, but I am also not going to push myself too much and increase the risk of further injury." (Muscles seizing up.) "It can be used externally, but as an infused oil or as a fomentation." -HerbMentor, Cramp Bark
 
+**Rosemary** - "Anti-inflammatory, topically and internally." "Essential oil (diluted) for arthritic pain and muscle spasms."
+
+**Ashwaganda** - Use topically or internally for body pain - back, neck, joints, fibromyalgia, aching muscles 
+
+"**Skullcap** can be used as an external massage oil to relax muscle tension and pain." -HerbMentor, Skullcap
+
+"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey
 
 
 Bruises
@@ -47,6 +65,10 @@ Bruises
 (**Maybe cayenne** - "Capsaicin, a major constituent of cayenne peppers, blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne)
 
 'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
+
+**Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. -Class notes
+
+"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey
 
 
 
@@ -64,7 +86,7 @@ Neuropathy (nerve pain)
 
 Menstrual pain
 --------------
-**Ginger** (study, PubMed, look up again)
+**Ginger** -Shirooye et. al.
 
 "Infusing **peppermint** into oil leaves you with an oil that is great for sore muscles, pain, and cramping that can be used externally."
 "As an Antispasmodic - Peppermint can ease tonic muscles. It can be used for menstrual cramps or a sore back." -HerbMentor, Peppermint
@@ -73,51 +95,76 @@ Menstrual pain
 
 "For Muscle Tension, Cramps and Pain - **(German) Chamomile** is also relaxing to the musculature. I reach for it whenever there is muscle tension related to stress or simply muscle tension leading to pain. I’ve seen it relieve severe menstrual cramps, as well as headaches that are accompanied by excess tension in the upper back and neck. Since pain can often be accompanied by emotional distress, chamomile brings welcome relief on many levels." -HerbMentor, Chamomile
 
-(Maybe? Internal, or external?) "Turmeric is used to treat a variety of symptoms associated with menstruation. As a blood mover it moves stagnant blood and reduces clots. It also works as an antispasmodic on smooth muscle tissue, helping to relieve pain associated with cramping." -HerbMentor, Turmeric
+(Maybe? Internal, or external?) "**Turmeric** is used to treat a variety of symptoms associated with menstruation. As a blood mover it moves stagnant blood and reduces clots. It also works as an antispasmodic on smooth muscle tissue, helping to relieve pain associated with cramping." -HerbMentor, Turmeric
+
 
 
 
 Headaches
 ---------
 "**Peppermint** works wonderfully to soothe pain. It is commonly used for headaches." -HerbMentor, Peppermint
+"Use on forehead and temples for headache" -Class notes
 
 (Maybe? On temples?) "Capsaicin, a major constituent of **cayenne peppers,** blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne
 
+**Rosemary** - class notes
 
 
 Burns
 -----
+(This shouldn't be in the form of a salve. It should be a liniment or maybe a little essential oil in some honey or lemon juice or aloe gel. -class notes)
+
+**Lavender** essential oil - undiluted is fine, for this one oil, in this one case.
+
 "**Peppermint** can also relieve the itching and inflammation of sunburns, poison oak/ivy and hives. You can use the tea as a wash or add a strong brew to bath water." -HerbMentor, Peppermint
 
 “Oil of Peppermint is rubefacient and anodyne. It is used alone or in combination with other oils for the relief of neuralgia and toothache, in both of which it is often very efficient. …Still it is used largely to relieve local pain, especially that of burns and scalds.”  - Felter’s Materia Medica, 1922 (via HerbMentor)
 
 "**(German) Chamomile** can be used externally as a poultice, fomentation, bath, or liniment to help calm inflammatory responses. Think of it for rashes, burns, or even bleeding gums and oral mucositis.7 8" -HerbMentor, Chamomile
 
+"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey
 
 
 
-Messed up tendons and ligaments (plantar fasciitis, carpal tunnel)
-------------------------------------------------------------------
+
+Messed up tendons and ligaments (plantar fasciitis, carpal tunnel, sprains)
+---------------------------------------------------------------------------
 "Another study looked at topical **(German) chamomile** for carpal tunnel syndrome pain. In this pilot study the researchers concluded that “Chamomile oil improved symptomatic and functional status of patients with severe carpal tunnel syndrome.”5" -HerbMentor, Chamomile
 
 "Besides reducing inflammation [**Turmeric**] also depletes nerve endings of substance P, which communicates the pain signal. Besides being taken internally it also has been used externally for sore joints and sprains. Be warned though, it will temporarily stain your skin yellow." "It can stabilize connective tissue and promote the healing of tissues while lessening scars and adhesions." -HerbMentor, Turmeric
 
 'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
 
+**Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. Good for carpal tunnel and bone spurs from tension (plantar fasciitis). -Class notes
+
+**Arnica** "It's a counter-irritant, so the body stops focusing on the injury and focuses on that for a minute." -Class notes
+
+**Willow** -Class notes
+
+"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." -Williams, Comfrey (and also mentioned in class notes)
 
 
 
-Bug bites
----------
+Bug bites and stings
+--------------------
+(If it's a sting, make sure to remove the stinger and wash the area before applying salve.)
+
 "**Peppermint** can also relieve the itching and inflammation of sunburns, poison oak/ivy and hives. You can use the tea as a wash or add a strong brew to bath water." -HerbMentor, Peppermint
 
 **(Maybe) "(German) Chamomile** can be used externally as a poultice, fomentation, bath, or liniment to help calm inflammatory responses. Think of it for rashes, burns, or even bleeding gums and oral mucositis.7 8" -HerbMentor, Chamomile
 
+**Plantain** -Class notes
+
+**Holy basil/Tulsi** -Class notes
+
+**Lavender** essential oil (with carrier) -Class notes
 
 
 
 Cuts and scrapes
 ----------------
+(Be careful not to seal in bacteria with oil/wax from salve. Only apply salve after thorough cleaning, and only for cuts that aren't deep.)
+
 "**Cayenne**’s anti-microbial properties can also prevent infections." -HerbMentor, Cayenne 
 Also styptic. -Wild Cherries Herbal Studies Program
 
@@ -127,12 +174,19 @@ Also styptic. -Wild Cherries Herbal Studies Program
 
 'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
 
+**Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. -Class notes
+
+**Plantain** -Class notes
+
+"For external use, **comfrey** ointments have been used to heal bruises as well as pulled muscles and ligaments, fractures, sprains, strains, and osteoarthritis." "Caution, however must be taken to not use comfrey on ANY open wound where even the slightest trace of infection is present. Comfrey assists the skin in healing quickly and closing over an existing infection could lead to a larger systemic infection" -Williams, Comfrey
+
 
 Sources:
 --------
-- Backdoor Survival (Gaye Levy)
-- Herbal Academy
-- HerbMentor monographs:
+- Backdoor Survival (Gaye Levy) (added to herb list from her articles)
+- Herbal Academy (added to herb list from their articles)
+- Class notes - mostly materias medica
+- HerbMentor monographs (researched individual herbs' effects):
 	- Ginger
 	- Peppermint
 	- Cayenne
@@ -144,6 +198,10 @@ Sources:
 	- Willow (not cited)
 	- Black Pepper (not cited)
 	- Cramp Bark
+	- Skullcap
+- Susan Williams - Forager’s Path School of Botanical Studies - Monographs
+	- Comfrey
+- Shirooye, Pantea & Dabaghian, Fataneh & Hamzeloo-Moghadam, M & Afrakhteh, M & Bioos, Soodabeh & Mokaberinejad, Roshanak. (2017). A clinical comparative study of oral and topical ginger on severity and duration of primary dysmenorrhea. Research Journal of Pharmacognosy (RJP). 4. 23-32. 
 
 
 
@@ -153,36 +211,46 @@ Herbs considered:
 - **Mentha x piperita (Peppermint)**
 - **Rosmarinus officinalis (Rosemary)**
 - **Curcuma longa (Turmeric)**
-- Arnica
-- Evening primrose pods
-- Comfrey
+- **Polygonatum biflorum (Solomon's seal)**
+- **Scutellria lateriflora (Skullcap)**
+- **Arnica montana (Arnica)**
+- **Symphytum uplandica, S. officianale (Comfrey)**
 - **Hypericum perforatum (St. Johns Wort)**
+- **Cinnamomum aromaticum, C. cassia, C. zeylanicum (Cinnamon)**
+- ** Salix spp. (Willow)**
+- **Piper nigrum (Black pepper)**
+- **Capsicum frutescens (Cayenne pepper)**
+- **Matricaria chamomilla (German chamomile)**
+- **Viburnum opulus (Cramp bark)**
 - Cucumber oil
 - Tea tree
 - Feverfew
 - Lavender
-- (needs more) **Cinnamomum aromaticum, C. cassia, C. zeylanicum (Cinnamon)**
-- ** Salix spp. (Willow)**
 - Clove
-- **Piper nigrum (Black pepper)**
 - Gaultheria procumbens (Wintergreen) Leaf Oil 
 - Cinnamomum camphora (Camphor) Bark Oil
 - Eucalyptus globulus (Eucalyptus) Leaf Oil
 - Cananga odorata (Ylang Ylang) Oil
-- **Capsicum frutescens (Cayenne pepper)**
 - Chamomilla recutita (Blue Chamomile)
-- **Matricaria chamomilla (German chamomile)**
 - Tanacetum annuum (Blue Tansy) Flower Oil
 - Helichrysum italicum (Helichrysum) Flower Oil
 - Gardenia florida Fruit Extract
 - Osmanthus fragrans (Osmanthus) Flower Extract
 - Chlorella vulgaris Extract
-- **Viburnum opulus (Cramp bark)**
 
 
-Herbs I'd like to consider, but I'd also like some guidance about
------------------------------------------------------------------
+
+
+Herbs I'd like to consider, but haven't researched yet:
+-------------------------------------------------------
 - Birch
 - Geranium
 - Lemongrass
 - Juniper berry
+- Lobelia
+- Poplar
+- Black cohosh
+- Bay laurel
+- Eucalyptus
+- Evening primrose pods
+- Meadowsweet (good internally for pain, but topically?)
