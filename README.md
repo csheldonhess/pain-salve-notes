@@ -53,7 +53,7 @@ Muscle pain
 
 "I often use **cramp bark** as a fomentation over cramped muscles when I’ve thrown out my back AND I rest and stay mostly immobilized. The cramp bark fomentation significantly decreases the discomfort, but I am also not going to push myself too much and increase the risk of further injury." (Muscles seizing up.) "It can be used externally, but as an infused oil or as a fomentation." -HerbMentor, Cramp Bark
 
-**Rosemary** - "Anti-inflammatory, topically and internally." "Essential oil (diluted) for arthritic pain and muscle spasms."
+**Rosemary** - "Anti-inflammatory, topically and internally." "Essential oil (diluted) for arthritic pain and muscle spasms." "More often used externally for muscles, but can also be used internally." -Class notes
 
 **Ashwaganda** - Use topically or internally for body pain - back, neck, joints, fibromyalgia, aching muscles 
 
@@ -72,7 +72,7 @@ Bruises
 
 (**Maybe cayenne** - "Capsaicin, a major constituent of cayenne peppers, blocks substance P which relays pain sensations in your body. Cayenne is used topically to relieve many different types of pain, from diabetic neuropathy1, shingles2, migraine headaches, back aches, arthritis, menstrual cramps and other aches and pains." -HerbMentor, Cayenne)
 
-'In the 1898 King’s American Dispensatory, “St. John’s wort is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
+'In the 1898 King’s American Dispensatory, “**St. John’s wort** is valued by many practitioners as a vulnerary, much as Arnica is employed. Therefore it has been used extensively as a local application to bruises, contusions, sprains, lacerations, swellings, ecchymoses, and in acute mammitis.”6' -HerbMentor, St. Johns Wort
 
 **Solomon's seal** helps to heal strains, sprains, ligaments, joints, bruises, wounds/cuts. Good for stiffness, coldness, injury, overuse, underuse, and "lack of waste removal" in joint. -Class notes
 
@@ -217,6 +217,8 @@ Sources:
 	- Comfrey
 - Chestnut School of Herbal Medicine
 	- Lavender's Medicinal and Aromatherapy Uses and Lavender Truffles
+- American Botanical Council
+	- Herbal Medicine: Expanded Commission E, Eucalyptus oil
 - Johnson, Rebecca L. & Foster, Steven & Low Dog, Tieraona & Kiefer, David. National Geographic Guide to Medicinal Herbs.
 	- Eucalyptus
 	- Arnica
@@ -258,7 +260,7 @@ Herbs I considered for inclusion:
 
 
 Herbs I plan to considerº, but still haven't researched enough:
--------------------------------------------------------------
+--------------------------------------------------------------
 - Birch
 - Geranium
 - Lemongrass
