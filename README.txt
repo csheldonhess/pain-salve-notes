@@ -1,3 +1,5 @@
+The presentation that goes with these notes is now available: http://bit.ly/pain-salves
+
 Herbs for topical use in pain salves
 ====================================
 
